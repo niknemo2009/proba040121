@@ -6,7 +6,7 @@ public class Example1 {
          System.out.println("test");
 
          System.out.println("super");
-
+ System.out.println("super2");
          System.out.println("is cool");
         if(true){
              System.out.println("Qualification");
