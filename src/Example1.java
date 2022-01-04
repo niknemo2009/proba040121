@@ -4,9 +4,13 @@ public class Example1 {
         int qaz=6789;
         System.out.println("limited");
          System.out.println("test");
+
+         System.out.println("super");
+
          System.out.println("is cool");
         if(true){
              System.out.println("Qualification");
         }
+
     }
 }
